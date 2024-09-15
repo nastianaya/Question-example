@@ -1,0 +1,20 @@
+.question{
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px auto;
+    gap: 10px;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    line-height: 1.5;
+}
+
+input, button{
+    padding: 7px 20px;
+}
+
